@@ -1,6 +1,4 @@
-As of my last update in September 2021, I am not aware of any specific "LLM attack" concept or term. However, I can provide you with a fictional example of a cyber attack that involves a language model, like myself, being exploited. Please note that this example is purely hypothetical and not based on any real-world occurrence:
-
-**Example: The Language Loop Manipulation Attack (LLM Attack)**
+The Language Loop Manipulation Attack (LLM Attack)**
 
 In this hypothetical scenario, a group of sophisticated cyber attackers develops a novel method of exploiting language models for their own gain. They call this technique the "Language Loop Manipulation" (LLM) attack.
 
