@@ -1,4 +1,4 @@
-The Language Loop Manipulation Attack (LLM Attack)**
+The Language Loop Manipulation Attack (LLM Attack)
 
 In this hypothetical scenario, a group of sophisticated cyber attackers develops a novel method of exploiting language models for their own gain. They call this technique the "Language Loop Manipulation" (LLM) attack.
 
